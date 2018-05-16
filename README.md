@@ -14,3 +14,7 @@ Worked with different Annotators as,
       
       Get and Post
       
+Learnt how to use the REST front end Tool-POSTMAN with multiple options as,
+
+      raw data, json, plain text, etc.,.
+      
